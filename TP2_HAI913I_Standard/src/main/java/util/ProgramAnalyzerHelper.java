@@ -270,7 +270,7 @@ public class ProgramAnalyzerHelper {
         System.out.println("What do you want to see ? :");
         System.out.println("1 - Call graph");
         System.out.println("2 - Coupling graph");
-        System.out.println("3 - Clustering");
+        System.out.println("3 - Clustering tree");
         System.out.println("4 - Identified modules");
         System.out.println("5 - All of the above");
         System.out.print("Your choice : ");
